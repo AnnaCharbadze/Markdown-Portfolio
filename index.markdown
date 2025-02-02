@@ -1,6 +1,6 @@
 # Anna Charbadze Portfolio
 
-This is a paragraph about me...
+I am Anna Charbadze, an upcoming Web Developer based in Toronto.
 
 [About Me](index)
 [Employment](employment)
