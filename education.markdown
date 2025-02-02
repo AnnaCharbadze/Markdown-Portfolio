@@ -3,6 +3,8 @@
 ## **Education**
 **[Bachelors of Science in Applied Arts and Sciences - Chemistry]** – [San Diego State University]  
 [2022]
+
+
 **[Ontario Graduate Certificate - Web Development]** – [Humber College]  
 [Outstanding]
 
