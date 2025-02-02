@@ -3,9 +3,9 @@
 I am Anna Charbadze, an upcoming Web Developer based in Toronto.
 
 [About Me](index)
-[Employment](employment)
+[Employment](employment.markdown)
 [Education](education.markdown)
-[Contact](employment)
+[Contact](contact.markdown)
 
 
 
