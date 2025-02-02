@@ -1,7 +1,6 @@
 ## **Contact Me**
-📧 Email: [Email]  
-🌐 Website: [Website]  
-🔗 LinkedIn: [LinkedIn]  
+📧 Email: [https://github.com/]  
+🔗 LinkedIn: [https://www.linkedin.com/in/anna-c-83a4b0b6/]  
 🐱 GitHub: [GitHub]  
 📍 Location: [City, Country]
 
