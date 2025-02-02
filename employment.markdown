@@ -6,7 +6,7 @@ resolve their queries and concerns, and to provide support and assistance.
 - Investigate customer issues and work with other departments to find a resolution.  
 - Maintain customer records in a CRM system, ensuring accurate and up-to-date information.
 
-- ### **[Operations Assistant]** – [ExpatHub]  
+### **[Operations Assistant]** – [ExpatHub]  
 [2021] – [2022]  
 - Coordinated schedules, tracked progress, and communicated with customers and other team
 members.  
